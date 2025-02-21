@@ -17,8 +17,7 @@ Ensure you have the following installed:
 
    ```sh
    git clone https://github.com/your-repo/library-management-system.git
-   cd library-management-system
-   ```
+   cd lms   ```
 
 2. Install dependencies for both client and server:
 
